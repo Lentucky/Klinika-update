@@ -1,0 +1,3 @@
+Notes:
+
+Need "uploads" folder
