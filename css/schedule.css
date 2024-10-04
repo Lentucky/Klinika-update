@@ -1,9 +1,7 @@
-body, #calendar {
-  font-family: 'Roboto', sans-serif;
-  max-width: 1024px;
-  margin: 50px auto;
+#calendar{
+  width: 80%;
+  margin: 3rem auto;
 }
-
 .fc {
   width: 100%;
   max-width: 1000px;
