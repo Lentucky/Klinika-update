@@ -11,7 +11,7 @@
 
 
         <div class="button-container">
-            <button class="main-button">Create New Record</button>
+            <button class="btn main-button">Create New Record</button>
         </div>
 
         <div class="table-container">
@@ -21,16 +21,13 @@
                     <th>Patient ID</th>
                     <th>Patient Name</th>
                     <th></th>
-                    <th></th>
                 </tr>
                 <tr>
                     <td>Anna Dagos</td>
                     <td>Pasta</td>
                     <td>
-                        <button class="main-button">Edit</button>
-                    </td>
-                    <td>
-                        <button class="main-button">Delete</button>
+                        <button class="btn main-button">Edit</button>
+                        <button class="btn main-button">Delete</button>
                     </td>
                 </tr>
 

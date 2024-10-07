@@ -9,17 +9,20 @@
             </form>
         </div>
 
-        <div class="card-container">
+        <div class="transaction-container">
             <div class="card">
-                <i class='bx bxs-wallet-alt'></i>
+                <div class="dropdown">
+                    <span>Mouse over me</span>
+                    <div class="dropdown-content">
+                        <p>Hello World!</p>
+                    </div>
+                </div>
 
                 <h1>4000</h1>
                 <h2>Total Revenue</h2>
                 <h3>this month</h3>
             </div>
             <div class="card">
-                <i class='bx bxs-wallet-alt'></i>
-
                 <h1>Recent Transaction</h1>
                 <h2>09-21-2024</h2>
                 <h2>INV-001</h2>
@@ -32,7 +35,7 @@
         <div class="table-container">
             <h3>Upcoming Appointments</h3>
             <table class="dash-table">
-                <tr>
+                <tr class="row-header">
                     <th>Patient Name</th>
                     <th>Invoice Number</th>
                     <th>Date of Service</th>
