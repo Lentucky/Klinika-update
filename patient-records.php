@@ -26,8 +26,8 @@
                     <td>Anna Dagos</td>
                     <td>Pasta</td>
                     <td>
-                        <button class="btn main-button">Edit</button>
-                        <button class="btn main-button">Delete</button>
+                        <a class="btn main-button" href="patient-edit.php">Edit</a>
+                        <a class="btn main-button">Delete</a>
                     </td>
                 </tr>
 
